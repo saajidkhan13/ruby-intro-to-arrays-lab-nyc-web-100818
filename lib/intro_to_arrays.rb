@@ -7,6 +7,6 @@ def array_with_two_elements
 end
 
 def my_first_element(first_element)
-  @taylor_swift[0]
+  first_element[0]
 end
 
